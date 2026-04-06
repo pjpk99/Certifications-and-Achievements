@@ -1,5 +1,17 @@
 # 📜 Certifications & Achievements
 
+# 🏆 Key Achievements
+
+## 🥇 IIT Kharagpur Ideathon Finalist (Top 30 / 900+ Teams)
+
+- Finalist at **COMPOSIT 2026 Ideathon**, IIT Kharagpur  
+- Selected among **900+ teams (Top 10)**  
+- Demonstrated strong **innovation and problem-solving skills** 
+
+---
+
+# 📜 Certifications
+
 ## 🏭 Electronics Home Foundation – APSSDC (Siemens Project)
 
 - Completed training under APSSDC – Siemens Project  
